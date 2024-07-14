@@ -22,7 +22,7 @@
 		},
 		{
 			"ModId": "Submerged",
-			"ModGUId": "github.com/SubmergedAmongUs/Submerged",
+			"ModGUId": "Submerged",
 			"RepoURL": "SubmergedAmongUs/Submerged",
 			"DescriptionShort": "Among Us Submerged Map",
 			"DescriptionLong": "An Among Us mod which adds a new underwater map.",
