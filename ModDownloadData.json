@@ -1,0 +1,35 @@
+{
+	"Mods": [
+		{
+			"ModId": "Reactor",
+			"ModGUId": "gg.reactor.api",
+			"RepoURL": "NuclearPowered/Reactor",
+			"DescriptionShort": "Prerequisite Plugins For Mod",
+			"DescriptionLong": "The plugins required for installing most modules\nIf you need this plugin, you can download it from the plugin manager.",
+			"DependencyMod": [],
+			"AddDownloadURLs": []
+		},
+		{
+			"ModId": "LevelImpostor",
+			"ModGUId": "com.DigiWorm.LevelImposter",
+			"RepoURL": "DigiWorm0/LevelImposter",
+			"DescriptionShort": "Add Lots Of Maps",
+			"DescriptionLong": "You can play other player's map\nOr you can make maps.",
+			"DependencyMod": [
+				"Reactor"
+			],
+			"AddDownloadURLs": []
+		},
+		{
+			"ModId": "Submerged",
+			"ModGUId": "github.com/SubmergedAmongUs/Submerged",
+			"RepoURL": "SubmergedAmongUs/Submerged",
+			"DescriptionShort": "Among Us Submerged Map",
+			"DescriptionLong": "An Among Us mod which adds a new underwater map.",
+			"DependencyMod": [
+				"Reactor"
+			],
+			"AddDownloadURLs": []
+		}
+	]
+}
